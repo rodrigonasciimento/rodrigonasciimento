@@ -1,4 +1,6 @@
 ### Olá! Eu sou o Rodrigo Nascimento 😆👋
+Amante da tecnologia, atualmente focado em me tornar um analista de dados. 
+
 
 [![Benance](  https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/rodrigonascime40)
 [![Instagram](  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rdgoo/)
@@ -15,7 +17,5 @@
   <img aling="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img aling="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
-<br>
-Amante da tecnologia, atualmente focado em me tornar um analista de dados. 
 <br>
 Entre em contato comigo: rodrigojnascimento@outlook.com.br
